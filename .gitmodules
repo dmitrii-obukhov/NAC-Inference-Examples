@@ -1,0 +1,9 @@
+[submodule "languagecodec"]
+	path = languagecodec
+	url = https://github.com/jishengpeng/Languagecodec.git
+[submodule "wavtokenizer"]
+	path = wavtokenizer
+	url = https://github.com/jishengpeng/WavTokenizer.git
+[submodule "facodec_platchaa"]
+	path = facodec_platchaa
+	url = https://github.com/Plachtaa/FAcodec.git

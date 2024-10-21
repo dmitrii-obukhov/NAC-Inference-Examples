@@ -1,0 +1,23 @@
+# General
+gdown==5.2.0
+numpy==1.23.5
+tensorboard==2.18.0
+torch==2.1.2 
+torchaudio==2.1.2
+
+# EnCodec
+encodec==0.1.1
+
+# FAcodec (lifeiteng's implementation)
+git+https://github.com/lifeiteng/naturalspeech3_facodec.git@aac16b7268b1b96e70b9e3526b13e216984e80d0
+
+# FAcodec (Plachtaa's implementation)
+#descript-audiotools==0.7.2
+#munch==4.0.0
+
+# SpeechTokenizer
+speechtokenizer==1.0.1
+beartype==0.19.0
+
+# Vocos
+vocos==0.1.0
